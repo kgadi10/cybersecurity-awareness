@@ -108,6 +108,7 @@ Features:
 - True/False questions
 - Immediate feedback
 - Score tracking
+- Added cybersecurity quiz functionality
 
 ---
 
