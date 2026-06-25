@@ -175,7 +175,8 @@ ReminderDate DATE,
 Completed BOOLEAN
 );
 
----
+---<img width="1315" height="670" alt="Screenshot 2026-04-13 125933" src="https://github.com/user-attachments/assets/743b3a21-614a-4d2d-85e8-2144bc9b45fb" />
+
 
 ## GitHub Actions
 
